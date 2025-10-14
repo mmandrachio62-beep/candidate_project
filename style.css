@@ -1,0 +1,38 @@
+.article-container {
+  max-width: 800px;       
+  margin: 40px auto;      /* center the article */
+  padding: 20px;      
+  font-family: Helvetica, Arial, sans-serif;
+  color: #222;
+  line-height: 1.6;
+}
+
+h1
+  {
+  font-display: Helvetica; font-family: sans-serif; color: midnightblue;
+   font-size: 42px;
+   font-weight: bold; 
+   text-transform: capitalize;       
+}
+h2 {
+  font-display: Helvetica; font-family: sans-serif; 
+}
+h3 {
+  font-display: Helvetica; font-family: sans-serif; 
+}
+li {
+  font-display: Helvetica; font-family: sans-serif;
+}
+p {
+  font-display: Helvetica; font-family: sans-serif;
+}
+blockquote {
+  font-display: Helvetica; font-family: sans-serif;
+}
+.highlight {
+  background-color: midnightblue;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-display: Helvetica; font-family: sans-serif ;
+}
